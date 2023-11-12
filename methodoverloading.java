@@ -22,3 +22,9 @@ class methodoverloading
         obj.mul(10.5,20.5);
     }
 }
+
+/*
+Output
+Addition=30
+Multiplication=215.25
+*/
